@@ -23,5 +23,5 @@ Investigar possíveis correlações entre o progresso da vacinação e a reduç�
 - Google Colab
 
 ## 📁 Estrutura
-- `MVP_COVID_ANALISE_CORRIGIDO.ipynb`: Notebook completo com todas as análises, visualizações e pré-processamento realizados.
+- `MVP_COVID_ANALISE.ipynb`: Notebook completo com todas as análises, visualizações e pré-processamento realizados.
 
