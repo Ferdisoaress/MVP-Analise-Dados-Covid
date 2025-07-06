@@ -2,7 +2,7 @@
 
 Este repositório contém um projeto completo de análise exploratória de dados (EDA) com foco na relação entre o avanço da vacinação contra a COVID-19 e a evolução dos casos e mortes pela doença em diferentes países. Além disso, foram aplicadas diversas técnicas de pré-processamento para transformar os dados brutos em informações úteis, prontas para análises futuras ou aplicação de modelos.
 
-🔗 [Notebook no Google Colab](https://colab.research.google.com/drive/1cb-XHZOtuzTgY3sLnJwrT9Or3p8Rib6i?authuser=1#scrollTo=0-Q0LwOSVqZw)
+🔗 [Notebook no Google Colab](https://colab.research.google.com/drive/1cb-XHZOtuzTgY3sLnJwrT9Or3p8Rib6i?usp=sharing)
 
 ---
 
