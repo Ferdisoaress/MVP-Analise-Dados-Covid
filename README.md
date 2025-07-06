@@ -64,6 +64,6 @@ Ambos os conjuntos trazem dados consolidados e atualizados sobre o avanço da pa
 
 ## ✍️ Autoria
 
-Projeto acadêmico desenvolvido por Fernanda Soares, como parte da disciplina **Análise Exploratória e Pré-processamento de Dados**.
+Projeto acadêmico desenvolvido por Fernanda Soares, como parte da disciplina **Análise de Dados e Boas Práticas**.
 
 ---
